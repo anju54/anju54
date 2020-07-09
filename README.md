@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi GitHub 👋
 
+I'm Anju . A software developer from Jharkhand India. I worked on handling the back end task using Java and J2EE related technologies.
 <!--
 **anju54/anju54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
